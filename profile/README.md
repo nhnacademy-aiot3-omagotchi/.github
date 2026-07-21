@@ -56,7 +56,7 @@
         <strong>kitturamiboiler</strong>
       </a>
       <br />
-      <sub>Frontend · Gamification</sub>
+      <sub>Gamification</sub>
       <br />
       <sub>사용자 · 교육 기수</sub>
     </td>
