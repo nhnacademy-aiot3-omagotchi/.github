@@ -1,22 +1,97 @@
-
-# 팀명: Omagotchi
-
-## 우리가 만들고자 하는 것: 학습 환경 관리 플랫폼
-
 <div align="center">
+
+<img src="./assets/logo.png" width="420" alt="Omagotchi logo" />
+
+<h1>
+  <img src="./assets/omagotchi.png" width="32" alt="Omagotchi mascot" />
+  Omagotchi
+</h1>
+
+<p><strong>KDT 연수생과 관리자를 위한 학습 환경 관리 플랫폼</strong></p>
+
+<br>
+<br>
 
 ## 팀원 소개
 
-| <a href="https://github.com/Quasimorphism"><img src="https://github.com/Quasimorphism.png" width="100px"><br/>Quasimorphism</a> | <a href="https://github.com/erase1657"><img src="https://github.com/erase1657.png" width="100px"><br/>erase1657</a> | <a href="https://github.com/jjh1228"><img src="https://github.com/jjh1228.png" width="100px"><br/>jjh1228</a> | <a href="https://github.com/kitturamiboiler"><img src="https://github.com/kitturamiboiler.png" width="100px"><br/>kitturamiboiler</a> |
-|:---:|:---:|:---:|:---:|
-| **인프라** | **Rule Engine** | **실습실·팀·회의실 관리** | **Gamification** |
-| 인증·인가 |  |  | 사용자·교육 기수 |
-
-<br>
-
-| <a href="https://github.com/woalshue"><img src="https://github.com/woalshue.png" width="100px"><br/>woalshue</a> | <a href="https://github.com/sy-103"><img src="https://github.com/sy-103.png" width="100px"><br/>sy-103</a> | <a href="https://github.com/yjKang02"><img src="https://github.com/yjKang02.png" width="100px"><br/>yjKang02</a> | <a href="https://github.com/chachabc"><img src="https://github.com/chachabc.png" width="100px"><br/>chachabc</a> |
-|:---:|:---:|:---:|:---:|
-| **Rule Engine·AI** | **Rule Engine·AI** | **타이머** | **실습실·팀·회의실 관리** |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Quasimorphism">
+        <img src="https://github.com/Quasimorphism.png" width="100" alt="Quasimorphism" />
+        <br />
+        <strong>Quasimorphism</strong>
+      </a>
+      <br />
+      <sub>인프라 · 인증/인가</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/erase1657">
+        <img src="https://github.com/erase1657.png" width="100" alt="erase1657" />
+        <br />
+        <strong>erase1657</strong>
+      </a>
+      <br />
+      <sub>Rule Engine</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/jjh1228">
+        <img src="https://github.com/jjh1228.png" width="100" alt="jjh1228" />
+        <br />
+        <strong>jjh1228</strong>
+      </a>
+      <br />
+      <sub>실습실 · 팀 · 회의실 관리</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/kitturamiboiler">
+        <img src="https://github.com/kitturamiboiler.png" width="100" alt="kitturamiboiler" />
+        <br />
+        <strong>kitturamiboiler</strong>
+      </a>
+      <br />
+      <sub>Gamification · 사용자/교육 기수</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/woalshue">
+        <img src="https://github.com/woalshue.png" width="100" alt="woalshue" />
+        <br />
+        <strong>woalshue</strong>
+      </a>
+      <br />
+      <sub>Rule Engine · AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/sy-103">
+        <img src="https://github.com/sy-103.png" width="100" alt="sy-103" />
+        <br />
+        <strong>sy-103</strong>
+      </a>
+      <br />
+      <sub>Rule Engine · AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/yjKang02">
+        <img src="https://github.com/yjKang02.png" width="100" alt="yjKang02" />
+        <br />
+        <strong>yjKang02</strong>
+      </a>
+      <br />
+      <sub>타이머</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/chachabc">
+        <img src="https://github.com/chachabc.png" width="100" alt="chachabc" />
+        <br />
+        <strong>chachabc</strong>
+      </a>
+      <br />
+      <sub>실습실 · 팀 · 회의실 관리</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
