@@ -40,9 +40,9 @@
         <br />
         <strong>jjh1228</strong>
       </a>
-       <sub>실습실 · 팀 </sub>
-      <br />
-      <sub>회의실 관리</sub>
+        <sub>실습실 · 팀</sub>
+        <br />
+        <sub>회의실 관리</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/kitturamiboiler">
@@ -91,7 +91,9 @@
         <strong>chachabc</strong>
       </a>
       <br />
-      <sub>실습실 · 팀 · 회의실 관리</sub>
+         <sub>실습실 · 팀</sub>
+        <br />
+        <sub>회의실 관리</sub>
     </td>
   </tr>
 </table>
