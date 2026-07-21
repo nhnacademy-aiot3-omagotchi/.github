@@ -3,6 +3,23 @@
 
 ## 우리가 만들고자 하는 것: 학습 환경 관리 플랫폼
 
+<div align="center">
+
+## 팀원 소개
+
+| <a href="https://github.com/Quasimorphism"><img src="https://github.com/Quasimorphism.png" width="100px"><br/>Quasimorphism</a> | <a href="https://github.com/erase1657"><img src="https://github.com/erase1657.png" width="100px"><br/>erase1657</a> | <a href="https://github.com/jjh1228"><img src="https://github.com/jjh1228.png" width="100px"><br/>jjh1228</a> | <a href="https://github.com/kitturamiboiler"><img src="https://github.com/kitturamiboiler.png" width="100px"><br/>kitturamiboiler</a> |
+|:---:|:---:|:---:|:---:|
+| **인프라** | **Rule Engine** | **실습실·팀·회의실 관리** | **Gamification** |
+| 인증·인가 |  |  | 사용자·교육 기수 |
+
+<br>
+
+| <a href="https://github.com/woalshue"><img src="https://github.com/woalshue.png" width="100px"><br/>woalshue</a> | <a href="https://github.com/sy-103"><img src="https://github.com/sy-103.png" width="100px"><br/>sy-103</a> | <a href="https://github.com/yjKang02"><img src="https://github.com/yjKang02.png" width="100px"><br/>yjKang02</a> | <a href="https://github.com/chachabc"><img src="https://github.com/chachabc.png" width="100px"><br/>chachabc</a> |
+|:---:|:---:|:---:|:---:|
+| **Rule Engine·AI** | **Rule Engine·AI** | **타이머** | **실습실·팀·회의실 관리** |
+
+</div>
+
 ## 목차
 
 - [프로젝트 소개](#프로젝트-소개)
