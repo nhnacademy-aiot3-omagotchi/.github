@@ -23,7 +23,9 @@
         <strong>Quasimorphism</strong>
       </a>
       <br />
-      <sub>인프라 · 인증/인가</sub>
+      <sub>인프라</sub>
+      <br />
+      <sub>인증 · 인가</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/erase1657">
@@ -33,6 +35,8 @@
       </a>
       <br />
       <sub>Rule Engine</sub>
+      <br />
+      <sub>&nbsp;</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/jjh1228">
@@ -40,9 +44,10 @@
         <br />
         <strong>jjh1228</strong>
       </a>
-        <sub>실습실 · 팀</sub>
-        <br />
-        <sub>회의실 관리</sub>
+      <br />
+      <sub>실습실 · 팀</sub>
+      <br />
+      <sub>회의실 관리</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/kitturamiboiler">
@@ -51,8 +56,8 @@
         <strong>kitturamiboiler</strong>
       </a>
       <br />
-       <sub>Gamification</sub>
-        <br />
+      <sub>Gamification</sub>
+      <br />
       <sub>사용자 · 교육 기수</sub>
     </td>
   </tr>
@@ -64,7 +69,9 @@
         <strong>woalshue</strong>
       </a>
       <br />
-      <sub>Rule Engine · AI</sub>
+      <sub>Rule Engine</sub>
+      <br />
+      <sub>AI</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sy-103">
@@ -73,7 +80,9 @@
         <strong>sy-103</strong>
       </a>
       <br />
-      <sub>Rule Engine · AI</sub>
+      <sub>Rule Engine</sub>
+      <br />
+      <sub>AI</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yjKang02">
@@ -83,6 +92,8 @@
       </a>
       <br />
       <sub>타이머</sub>
+      <br />
+      <sub>&nbsp;</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/chachabc">
@@ -91,9 +102,9 @@
         <strong>chachabc</strong>
       </a>
       <br />
-         <sub>실습실 · 팀</sub>
-        <br />
-        <sub>회의실 관리</sub>
+      <sub>실습실 · 팀</sub>
+      <br />
+      <sub>회의실 관리</sub>
     </td>
   </tr>
 </table>
