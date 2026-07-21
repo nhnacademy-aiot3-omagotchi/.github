@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Quasimorphism">
-        <img src="https://github.com/Quasimorphism.png" width="100" alt="Quasimorphism" />
+        <img src="https://github.com/Quasimorphism.png" width="100" height="100" alt="Quasimorphism" />
         <br />
         <strong>Quasimorphism</strong>
       </a>
@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/erase1657">
-        <img src="https://github.com/erase1657.png" width="100" alt="erase1657" />
+        <img src="https://github.com/erase1657.png" width="100" height="100" alt="erase1657" />
         <br />
         <strong>erase1657</strong>
       </a>
@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/jjh1228">
-        <img src="https://github.com/jjh1228.png" width="100" alt="jjh1228" />
+        <img src="https://github.com/jjh1228.png" width="100" height="100" alt="jjh1228" />
         <br />
         <strong>jjh1228</strong>
       </a>
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/kitturamiboiler">
-        <img src="https://github.com/kitturamiboiler.png" width="100" alt="kitturamiboiler" />
+        <img src="https://github.com/kitturamiboiler.png" width="100" height="100" alt="kitturamiboiler" />
         <br />
         <strong>kitturamiboiler</strong>
       </a>
@@ -64,7 +64,7 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/woalshue">
-        <img src="https://github.com/woalshue.png" width="100" alt="woalshue" />
+        <img src="https://github.com/woalshue.png" width="100" height="100" alt="woalshue" />
         <br />
         <strong>woalshue</strong>
       </a>
@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sy-103">
-        <img src="https://github.com/sy-103.png" width="100" alt="sy-103" />
+        <img src="https://github.com/sy-103.png" width="100" height="100" alt="sy-103" />
         <br />
         <strong>sy-103</strong>
       </a>
@@ -86,7 +86,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yjKang02">
-        <img src="https://github.com/yjKang02.png" width="100" alt="yjKang02" />
+        <img src="https://github.com/yjKang02.png" width="100" height="100" alt="yjKang02" />
         <br />
         <strong>yjKang02</strong>
       </a>
@@ -97,7 +97,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/chachabc">
-        <img src="https://github.com/chachabc.png" width="100" alt="chachabc" />
+        <img src="https://github.com/chachabc.png" width="100" height="100" alt="chachabc" />
         <br />
         <strong>chachabc</strong>
       </a>
