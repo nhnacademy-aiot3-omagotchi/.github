@@ -1,4 +1,4 @@
-<img width="1397" height="845" alt="image" src="https://github.com/user-attachments/assets/6c1d7787-67dc-4603-ac1d-7e1ec7fce66f" /><div align="center">
+<div align="center">
 
 <img src="./assets/logo.png" width="420" alt="Omagotchi logo" />
 
@@ -144,7 +144,7 @@
 ## 프로젝트 아키텍처
 
 <div align="center">
-  <img src="./assets/project-architecture.png" alt="Omagotchi project architecture" />
+  <img src="./assets/project-architecture.png" width="100%" alt="Omagotchi project architecture" />
 </div>
 
 ---
