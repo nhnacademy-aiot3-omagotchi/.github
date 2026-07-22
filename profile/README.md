@@ -300,9 +300,6 @@ Omagotchi는 모든 기능을 개별 서비스로 세분화하지 않고, 책임
 
 추가 서비스 분리는 독립적인 배포, 확장, 장애 격리 또는 데이터 소유권 분리가 필요해지는 경우에만 검토합니다.
 
-<img width="1397" height="845" alt="image" src="https://github.com/user-attachments/assets/299553c0-8b59-4953-b789-5e9c8b88dc76" />
-
-
 ---
 
 ## 기대 효과
