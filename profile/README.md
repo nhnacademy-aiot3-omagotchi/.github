@@ -219,40 +219,38 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 
 ## 레포지토리 구성
 
-링크는 추후 연결 예정입니다.
-
 ### Docs
 
 | Repository | 설명 |
 | --- | --- |
-| `docs` | 기타 문서를 모아두는 곳 |
+| [`docs`](https://github.com/nhnacademy-aiot3-omagotchi/docs) | 기타 문서를 모아두는 곳 |
 
 ### Gateway & Infra
 
 | Repository | 설명 |
 | --- | --- |
-| `omagotchi-infra` | 인프라 구성 및 배포 환경 관리 |
-| `omagotchi-gateway-service` | 외부 API 진입점 및 서비스 라우팅 |
-| `omagotchi-discovery-service` | 서비스 등록 및 조회 |
+| [`omagotchi-infra`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-infra) | 인프라 구성 및 배포 환경 관리 |
+| [`omagotchi-gateway-service`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-gateway-service) | 외부 API 진입점 및 서비스 라우팅 |
+| [`omagotchi-discovery-service`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-discovery-service) | 서비스 등록 및 조회 |
 
 ### Frontend
 
 | Repository | 설명 |
 | --- | --- |
-| `omagotchi-frontend` | 사용자 및 관리자 화면 |
+| [`omagotchi-frontend`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-frontend) | 사용자 및 관리자 화면 |
 
 ### Core Services
 
 | Repository | 설명 |
 | --- | --- |
-| `omagotchi-identity-service` | 회원, 인증, 인가, 계정 상태 관리 |
-| `omagotchi-learning-service` | 출결, 타이머, 공부 기록, 공간, 팀, 랭킹 및 게이미피케이션 |
+| [`omagotchi-identity-service`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-identity-service) | 회원, 인증, 인가, 계정 상태 관리 |
+| [`omagotchi-learning-service`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-learning-service) | 출결, 타이머, 공부 기록, 공간, 팀, 랭킹 및 게이미피케이션 |
 
 ### Rule & AI
 
 | Repository | 설명 |
 | --- | --- |
-| `omagotchi-rule-service` | 센서 데이터 처리, 조건 평가, Rule Engine |
+| [`omagotchi-rule-service`](https://github.com/nhnacademy-aiot3-omagotchi/omagotchi-rule-service) | 센서 데이터 처리, 조건 평가, Rule Engine |
 
 ## 아키텍처
 
