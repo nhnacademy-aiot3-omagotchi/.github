@@ -197,6 +197,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Database & Message Broker
 
@@ -210,12 +211,17 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-4B8BBE?style=for-the-badge)
 
-### Frontend & AI
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Prediction-111827?style=for-the-badge)
+
+### AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 레포지토리 구성
 
@@ -307,11 +313,11 @@ Omagotchi는 모든 기능을 개별 서비스로 세분화하지 않고, 책임
 
 관리자는 사용자와 공간의 현재 상태, 공부 시간, 출결 및 환경 데이터를 하나의 서비스에서 확인할 수 있습니다.
 
-## AI 활용 방향
+## AI 적용 검토 방향
 
-- 사용자의 과거 학습 기록을 기반으로 다음 학습 시간을 예측합니다.
-- 예측 결과를 활용해 개인별 퀘스트와 목표를 제안합니다.
-- 학습 패턴, 출석률, 스트릭 데이터를 결합해 지속 가능한 학습 루틴을 추천합니다.
+- 모델은 추후 선정합니다.
+- 사용자의 과거 학습 기록을 기반으로 학습 시간 예측 가능성을 검토합니다.
+- 학습 패턴, 출석률, 스트릭 데이터를 결합해 개인별 퀘스트와 목표 추천 가능성을 검토합니다.
 
 ## KDT 배경
 
