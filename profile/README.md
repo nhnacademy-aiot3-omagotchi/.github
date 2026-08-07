@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="420" alt="Omagotchi logo" />
+<img src="./assets/14.png" width="420" alt="Omagotchi logo" />
 
 <p>
   <img src="./assets/omagotchi.png" width="72" alt="Omagotchi mascot" />
