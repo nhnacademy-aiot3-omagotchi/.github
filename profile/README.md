@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/14.png" width="420" alt="Omagotchi logo" />
+<img src="./assets/1ogo.png" width="420" alt="Omagotchi logo" />
 
-<p>
-  <img src="./assets/omagotchi.png" width="72" alt="Omagotchi mascot" />
+<p align="center">
+  <img src="./assets/omagotchi_eye.gif" width="96" alt="Omagotchi mascot animation" />
 </p>
 
 <p><strong>Omagotchi - KDT 연수생과 관리자를 위한 학습 환경 관리 플랫폼</strong></p>
