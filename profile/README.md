@@ -217,17 +217,14 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ_(AMQP)-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT_(Paho_v5_·_Mosquitto)-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Caffeine](https://img.shields.io/badge/Caffeine_Cache-6B4F2A?style=for-the-badge)
 
 ### Infrastructure & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka_(Netflix_Discovery)-4B8BBE?style=for-the-badge)
 ![LoadBalancer](https://img.shields.io/badge/Spring_Cloud_LoadBalancer-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GHCR](https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Actuator](https://img.shields.io/badge/Spring_Boot_Actuator-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
@@ -282,19 +279,15 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ### Test & Quality
 
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A44?style=for-the-badge&logo=testcontainers&logoColor=white)
 ![REST Docs](https://img.shields.io/badge/Spring_REST_Docs_·_Asciidoctor-E40046?style=for-the-badge&logo=asciidoctor&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-D22128?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest_·_pytest--cov-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Node Test Runner](https://img.shields.io/badge/Node_Test_Runner-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 기타 연동
 
 ![Telegram](https://img.shields.io/badge/Telegram_Bots_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![BadWordFiltering](https://img.shields.io/badge/BadWordFiltering-6E7B8B?style=for-the-badge)
 
 <details>
 <summary><strong>서비스별 사용 현황</strong></summary>
