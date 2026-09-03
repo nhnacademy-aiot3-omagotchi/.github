@@ -98,7 +98,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Quasimorphism">
-        <img src="https://github.com/Quasimorphism.png" width="100" height="100" alt="Quasimorphism" />
+        <img src="./assets/profile/characters/x6/cyan%406x.png" width="96" height="96" alt="Quasimorphism" />
         <br />
         <strong>Quasimorphism</strong>
       </a>
@@ -109,7 +109,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/erase1657">
-        <img src="https://github.com/erase1657.png" width="100" height="100" alt="erase1657" />
+        <img src="./assets/profile/characters/x6/pistachio%406x.png" width="96" height="96" alt="erase1657" />
         <br />
         <strong>erase1657</strong>
       </a>
@@ -120,7 +120,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/jjh1228">
-        <img src="https://github.com/jjh1228.png" width="100" height="100" alt="jjh1228" />
+        <img src="./assets/profile/characters/x6/cream_can%406x.png" width="96" height="96" alt="jjh1228" />
         <br />
         <strong>jjh1228</strong>
       </a>
@@ -131,7 +131,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/kitturamiboiler">
-        <img src="https://github.com/kitturamiboiler.png" width="100" height="100" alt="kitturamiboiler" />
+        <img src="./assets/profile/characters/x6/yagan-white%406x.png" width="96" height="96" alt="kitturamiboiler" />
         <br />
         <strong>kitturamiboiler</strong>
       </a>
@@ -144,7 +144,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/woalshue">
-        <img src="https://github.com/woalshue.png" width="100" height="100" alt="woalshue" />
+        <img src="./assets/profile/characters/x6/dark_gray%406x.png" width="96" height="96" alt="woalshue" />
         <br />
         <strong>woalshue</strong>
       </a>
@@ -155,7 +155,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sy-103">
-        <img src="https://github.com/sy-103.png" width="100" height="100" alt="sy-103" />
+        <img src="./assets/profile/characters/x6/light_purple%406x.png" width="96" height="96" alt="sy-103" />
         <br />
         <strong>sy-103</strong>
       </a>
@@ -166,7 +166,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yjKang02">
-        <img src="https://github.com/yjKang02.png" width="100" height="100" alt="yjKang02" />
+        <img src="./assets/profile/characters/x6/debugging%406x.png" width="96" height="96" alt="yjKang02" />
         <br />
         <strong>yjKang02</strong>
       </a>
@@ -177,7 +177,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/chachabc">
-        <img src="https://github.com/chachabc.png" width="100" height="100" alt="chachabc" />
+        <img src="./assets/profile/characters/x6/light_coral%406x.png" width="96" height="96" alt="chachabc" />
         <br />
         <strong>chachabc</strong>
       </a>
