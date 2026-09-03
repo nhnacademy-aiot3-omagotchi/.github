@@ -237,7 +237,6 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-4-8B5CF6?style=for-the-badge)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-FFF312?style=for-the-badge&logo=framer&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
