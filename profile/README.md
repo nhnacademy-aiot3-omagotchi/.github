@@ -348,7 +348,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ## 아키텍처
 
 <div align="center">
-  <img src="./assets/project-architecture.png" width="100%" alt="Omagotchi project architecture" />
+  <img src="./assets/project-architecture.svg" width="100%" alt="Omagotchi project architecture" />
 </div>
 
 ## 서비스 구성 방향
