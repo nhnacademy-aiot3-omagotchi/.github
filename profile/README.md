@@ -350,7 +350,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 ### 논리 서비스 구성
 
 <div align="center">
-  <img src="./assets/project-architecture.svg" width="100%" alt="Omagotchi 논리 서비스 구성 — 주요 서비스와 요청·센서 흐름" />
+  <img src="./assets/project-architecture.svg?v=20260910" width="100%" alt="Omagotchi 논리 서비스 구성 — 주요 서비스와 요청·센서 흐름" />
 </div>
 
 <details>
