@@ -347,9 +347,37 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
 
 ## 아키텍처
 
+### 논리 서비스 구성
+
 <div align="center">
-  <img src="./assets/project-architecture.svg" width="100%" alt="Omagotchi project architecture" />
+  <img src="./assets/project-architecture.svg" width="100%" alt="Omagotchi 논리 서비스 구성 — 주요 서비스와 요청·센서 흐름" />
 </div>
+
+<details>
+<summary>운영 배치와 이중화</summary>
+
+<div align="center">
+  <img src="./assets/project-runtime-deployment.svg" width="100%" alt="Omagotchi 운영 배치 — 서비스 A/B 인스턴스와 Rule ACTIVE/STANDBY, 데이터·로그 인프라" />
+</div>
+
+- 서비스별 A/B 인스턴스와 Rule ACTIVE/STANDBY 구성
+- 애플리케이션 서버와 공유 데이터·중앙 로그 인프라의 연결
+
+</details>
+
+<details>
+<summary>관측 데이터 흐름</summary>
+
+<div align="center">
+  <img src="./assets/project-observability-flow.svg" width="100%" alt="Omagotchi 관측 흐름 — 로그·메트릭·트레이스의 수집·저장·조회와 Telegram 알림" />
+</div>
+
+- 로그·메트릭·트레이스의 수집·저장·조회 경로
+- Telegram 운영 알림과 Cloudflare Access 기반 Grafana 접속
+
+</details>
+
+- 상세 설명·draw.io 원본: [시스템 개요](https://github.com/nhnacademy-aiot3-omagotchi/docs/blob/main/20-architecture/01-system-overview.md)
 
 ## 서비스 구성 방향
 
