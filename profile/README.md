@@ -138,7 +138,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
         <strong>kitturamiboiler</strong>
       </a>
       <br />
-      <sub>Gamification</sub>
+      <sub>FE · Gamification</sub>
       <br />
       <sub>User · Cohort</sub>
     </td>
@@ -153,7 +153,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
       <br />
       <sub>Rule Engine</sub>
       <br />
-      <sub>ML/Agent</sub>
+      <sub>ML · Agent</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sy-103">
@@ -164,7 +164,7 @@ Omagotchi는 KDT 연수생의 출결과 학습 시간을 신뢰성 있게 기록
       <br />
       <sub>Rule Engine</sub>
       <br />
-      <sub>ML/Agent</sub>
+      <sub>ML · Agent</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yjKang02">
